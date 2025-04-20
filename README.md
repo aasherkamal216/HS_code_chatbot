@@ -2,6 +2,8 @@
 
 This project implements a Streamlit-based chatbot designed to help users find suggested 10-digit Harmonized System (HS) codes for various products in specific countries. It uses the Deepseek API. The chatbot asks clarifying questions to narrow down product details and suggests potential HS codes in real-time.
 
+![Chatbot](chat.png)
+
 ## Features
 
 *   Interactive chat interface using Streamlit.
